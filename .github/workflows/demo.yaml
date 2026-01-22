@@ -14,7 +14,7 @@ permissions:
 jobs:
   demo:
     runs-on: ubuntu-latest
-    steps:    steps:
+    steps:
       - name: Checkout kod
         uses: actions/checkout@v4
 
